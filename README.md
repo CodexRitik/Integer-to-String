@@ -5,7 +5,7 @@ Input : 1234
 Output : One thousand two hundred thirty four
 
 Input : 999999
-Output : Nine lac Ninety Thousand Nine Hundred Ninety Nine.
+Output : Nine lac Ninety Nine Thousand Nine Hundred Ninety Nine.
 
 Input : 00000
 Output : Zero
